@@ -162,13 +162,14 @@ Other:
 
 * [comerc:autoform-contenteditable2](https://atmospherejs.com/comerc/autoform-contenteditable2)
 * [hausor:autoform-bs-minicolors](https://atmospherejs.com/hausor/autoform-bs-minicolors)
+* [thebarty:autoform-formattable-radios](https://atmospherejs.com/tooit/content-types-bootstrap3)
 
 #### Themes
 
 * [meteoric:autoform-ionic](https://github.com/meteoric/autoform-ionic)
 * [fabienb4:autoform-semantic-ui](https://atmospherejs.com/fabienb4/autoform-semantic-ui)
 * [gildaspk:autoform-materialize](https://atmospherejs.com/gildaspk/autoform-materialize)
-* [poetic:react-autoform-material-ui](https://atmospherejs.com/poetic/react-autoform-material-ui)
+* [poetic:react-autoform-material-ui](https://atmospherejs.com/thebarty/autoform-formattable-radios)
 
 #### Admin Panels
 
